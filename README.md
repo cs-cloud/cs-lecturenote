@@ -29,3 +29,5 @@
 - 링크드인: [soojung-sue](https://www.linkedin.com/in/soojung-sue/)
 - 브런치 블로그: [@loreenkim](https://brunch.co.kr/@loreenkim)
 - 협업/제안 문의: loreen@selectway.co.kr
+- CS 계정: cs@selectway.co.kr
+- 셀렉트웨이 스튜디오 인스타그램:[@selectway_studio](https://www.instagram.com/selectway_studio/)
